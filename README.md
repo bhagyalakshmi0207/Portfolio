@@ -7,7 +7,8 @@ Through various internships and projects, I've developed expertise in end-to-end
 
 # About Me
 I specialize in creating modern, responsive user interfaces and end-to-end software solutions that solve real-world problems, blending creativity with technical expertise to deliver intuitive and effective digital experiences.
-# Technical Skills
+
+Technical Skills
 Programming Languages: Java, Python, CSS, JavaScript, HTML
 
 Data Visualization: Matplotlib, Seaborn
@@ -86,5 +87,6 @@ Visit My Portfolio - https://bhagyalakshmi-portfolio.netlify.app/
 Feel free to reach out for collaborations, job opportunities, or just to connect and discuss technology!
 
 <img width="1232" height="893" alt="Image" src="https://github.com/user-attachments/assets/9c1d969b-0572-4c93-9c91-95d7c6ff6de3" />
+
 
 Thank you for visiting my portfolio!
