@@ -7,8 +7,6 @@ Through various internships and projects, I've developed expertise in end-to-end
 
 # About Me
 I specialize in creating modern, responsive user interfaces and end-to-end software solutions that solve real-world problems, blending creativity with technical expertise to deliver intuitive and effective digital experiences.
-<img width="1004" height="893" alt="Image" src="https://github.com/user-attachments/assets/75cb77e6-08e8-428e-81d3-c3c572189ddd" />
-
 # Technical Skills
 Programming Languages: Java, Python, CSS, JavaScript, HTML
 
@@ -17,6 +15,21 @@ Data Visualization: Matplotlib, Seaborn
 Machine Learning: Scikit-learn, PyTorch, OpenCV, CNN
 
 Tools & Platforms: Excel, Git, GitHub, Docker, VS Code, Linux, Jupyter, Eclipse IDE
+<img width="1004" height="893" alt="Image" src="https://github.com/user-attachments/assets/75cb77e6-08e8-428e-81d3-c3c572189ddd" />
+
+# Experience 
+Here is the "Experience" section from the portfolio website:
+
+IIT Tirupati Research Intern: Contributed to a computer vision project focused on detecting rows and columns in tabular data from document images.
+
+Full Stack Developer Intern at Blackbucks Education Pvt Ltd: Worked on building web applications using HTML, CSS, and JavaScript and contributed to front-end development.
+
+IEEE Computer Society Coordinator at Mohan Babu University: Organized and led technical events and workshops.
+
+CRM & Digital Marketing Intern at Blackbucks Education Pvt Ltd: Worked on CRM and Digital marketing initiatives using HubSpot for campaign automation and lead tracking.
+
+<img width="1049" height="909" alt="Image" src="https://github.com/user-attachments/assets/024d4860-f124-4d4e-a0af-e313e8222751" />
+
 
 # Projects
 Here are some highlights from my projects:
@@ -60,13 +73,15 @@ Event Coordinator - TAIT Event
 Core Member - Mohana Mantra
 <img width="1168" height="887" alt="Image" src="https://github.com/user-attachments/assets/22390fc5-2e1b-45b8-9759-06eebaf90d61" />
 
+# Find me online 
+The platforms and where we can able to find me.
+
+<img width="1548" height="866" alt="Image" src="https://github.com/user-attachments/assets/865aac94-c269-4086-8d3c-b9d598864260" />
+
 # Connect with Me
 You can find more about my work and connect with me through my portfolio website:
 
-Visit My Portfolio
-
-
-<img width="1548" height="866" alt="Image" src="https://github.com/user-attachments/assets/865aac94-c269-4086-8d3c-b9d598864260" />
+Visit My Portfolio - https://bhagyalakshmi-portfolio.netlify.app/
 
 Feel free to reach out for collaborations, job opportunities, or just to connect and discuss technology!
 
